@@ -1,2 +1,3 @@
 # american-samoa-data-plans
-American Samoa Data-only plans guides
+
+全球通信 README（占位）
